@@ -1,20 +1,21 @@
-# Abhorrent Sign Tracker - Face And Hand Detector
+# Abhorrent Sign Tracker - Hand and Face Detection
 
 Abhorrent Sign Tracker is a Python application that uses computer vision techniques to perform hand and face detection in real-time using your webcam. It leverages the OpenCV library for image processing and the MediaPipe library for hand and face tracking.
 
 ## Features
 
-- **Hand Detection:** Bird Flip can detect and track your hand in the video stream. It can identify the number of fingers you're holding up and display messages accordingly, such as "Middle Finger Shown" when you display your middle finger.
+- **Hand Detection:** Abhorrent Sign Tracker can detect and track your hand in the video stream. It can identify the number of fingers you're holding up and display messages accordingly, such as "Middle Finger Shown" when you display your middle finger.
 
 - **Face Detection:** The application also performs face detection using a pre-trained deep learning model. It can identify faces in the video stream and draw bounding boxes around them.
 
-- **Audio Alert:** When Bird Flip detects the gesture "Middle Finger Shown," it plays an audio alert to provide additional feedback to the user.
+- **Audio Alert:** When Abhorrent Sign Tracker detects the gesture "Middle Finger Shown," it plays an audio alert to provide additional feedback to the user.
 
-- **Visual Feedback:** Bird Flip provides visual feedback to the user through different messages and overlays. When specific gestures are detected, such as showing the middle finger, the application displays corresponding messages on the screen.
+- **Visual Feedback:** Abhorrent Sign Tracker provides visual feedback to the user through different messages and overlays. When specific gestures are detected, such as showing the middle finger, the application displays corresponding messages on the screen.
 
 ## How to Use
 
-1. **Install the required libraries:** Before running Bird Flip, make sure you have all the required libraries installed. You can install the necessary packages by running the following command:
+1. **Install the required libraries:** Before running Abhorrent Sign Tracker, make sure you have all the required libraries installed. You can install the necessary packages by running the following command:
+
 ```
 pip install opencv-python numpy mediapipe cvzone playsound
 ```
@@ -42,13 +43,15 @@ pip install opencv-python numpy mediapipe cvzone playsound
 
 ## Contributions
 
-Contributions to Bird Flip are welcome! If you have any suggestions, improvements, or new visual effects to add, feel free to create a pull request.
+Contributions to Abhorrent Sign Tracker are welcome! If you have any suggestions, improvements, or new visual effects to add, feel free to create a pull request.
 
 ## License
 
-Bird Flip is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Abhorrent Sign Tracker is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
-Bird Flip utilizes the power of OpenCV and MediaPipe libraries for hand and face tracking. Special thanks to the developers and contributors of these open-source projects.
+-Abhorrent Sign Tracker utilizes the power of OpenCV and MediaPipe libraries for hand and face tracking.
+- Harishspice has created and is maintaining this project
 
+  # Thank You
