@@ -51,7 +51,7 @@ Abhorrent Sign Tracker is licensed under the MIT License. See the [LICENSE](LICE
 
 ## Acknowledgments
 
--Abhorrent Sign Tracker utilizes the power of OpenCV and MediaPipe libraries for hand and face tracking.
+- Abhorrent Sign Tracker utilizes the power of OpenCV and MediaPipe libraries for hand and face tracking.
 - Harishspice has created and is maintaining this project
 
-  # Thank You
+# Thank You
