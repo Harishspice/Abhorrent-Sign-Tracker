@@ -17,7 +17,6 @@ Abhorrent Sign Tracker is a Python application that uses computer vision techniq
 1. **Install the required libraries:** Before running Bird Flip, make sure you have all the required libraries installed. You can install the necessary packages by running the following command:
 ```
 pip install opencv-python numpy mediapipe cvzone playsound
-
 ```
 
 2. **Download Audio File:** Download an audio file in MP3 format for the audio alert. Replace the file path in the code with the actual path to the MP3 file (variable `alert_sound` in `flip.py`).
