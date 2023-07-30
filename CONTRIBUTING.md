@@ -2,15 +2,11 @@
 
 Thank you for considering contributing to Abhorrent Sign Tracker! Your contributions are highly appreciated and can make the project even better.
 
-## Code of Conduct
-
-Before you start contributing, please review the [Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors to abide by these guidelines to ensure a positive and respectful community.
-
 ## How to Contribute
 
 Here are some ways you can contribute to Abhorrent Sign Tracker:
 
-1. **Report Bugs:** If you encounter any bugs or issues while using Abhorrent Sign Tracker, please report them on the [GitHub Issue Tracker](https://github.com/yourusername/abhorrent-sign-tracker/issues). Provide detailed information about the bug and steps to reproduce it.
+1. **Report Bugs:** If you encounter any bugs or issues while using Abhorrent Sign Tracker, please report them on the [GitHub Issue Tracker](https://github.com/Harishspice/Abhorrent-Sign-Tracker/issues). Provide detailed information about the bug and steps to reproduce it.
 
 2. **Suggest Enhancements:** If you have ideas for new features, improvements, or visual effects, feel free to suggest them on the Issue Tracker. We welcome creative and innovative suggestions!
 
