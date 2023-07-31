@@ -1,6 +1,6 @@
 # Abhorrent Sign Tracker - Hand and Face Detection
 
-Abhorrent Sign Tracker is a Python application that uses computer vision techniques to perform hand and face detection in real-time using your webcam. It leverages the OpenCV library for image processing and the MediaPipe library for hand and face tracking.
+Abhorrent Sign Tracker is a Python application that uses computer vision techniques to perform hand and face detection in real-time using your webcam. It leverages the openCV library for image processing and the MediaPipe library for hand and face tracking.
 
 ## Features
 
